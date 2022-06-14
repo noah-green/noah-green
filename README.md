@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noah-green
 - 👀 I’m interested in programming language design.
-- 🌱 I’m currently learning Ruby, JS, and web technologies
+- 💼 Currently working at Big Room Studios.
 - 📫 Reach me via email, noah@noahgreen.net
 
 <!---
